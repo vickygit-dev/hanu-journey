@@ -7,47 +7,47 @@
     </url>
     <!-- 2. Hanuman Chalisa Hinglish Page -->
     <url>
-        <loc>https://hanuman-chalisa.bloghanuman-chalisa-hinglish.html</loc>
+        <loc>https://hanuman-chalisa.blog/hanuman-chalisa-hinglish.html</loc>
         <priority>0.90</priority>
     </url>
     <!-- 3. Bajrang Baan Page -->
     <url>
-        <loc>https://hanuman-chalisa.blogbajrang-baan.html</loc>
+        <loc>https://hanuman-chalisa.blog/bajrang-baan.html</loc>
         <priority>0.90</priority>
     </url>
     <!-- 4. Mangalwar Vrat Page -->
     <url>
-        <loc>https://hanuman-chalisa.blogmangalwar-vrat.html</loc>
+        <loc>https://hanuman-chalisa.blog/mangalwar-vrat.html</loc>
         <priority>0.80</priority>
     </url>
     <!-- 5. Hanuman Aarti Page -->
     <url>
-        <loc>https://hanuman-chalisa.bloghanuman-aarti.html</loc>
+        <loc>https://hanuman-chalisa.blog/hanuman-aarti.html</loc>
         <priority>0.80</priority>
     </url>
     <!-- 6. About Us Page -->
     <url>
-        <loc>https://hanuman-chalisa.blogabout-us.html</loc>
+        <loc>https://hanuman-chalisa.blog/about-us.html</loc>
         <priority>0.50</priority>
     </url>
     <!-- 7. Contact Us Page -->
     <url>
-        <loc>https://hanuman-chalisa.blogcontact-us.html</loc>
+        <loc>https://hanuman-chalisa.blog/contact-us.html</loc>
         <priority>0.50</priority>
     </url>
     <!-- 8. Privacy Policy Page -->
     <url>
-        <loc>https://hanuman-chalisa.blogprivacy-policy.html</loc>
+        <loc>https://hanuman-chalisa.blog/privacy-policy.html</loc>
         <priority>0.30</priority>
     </url>
     <!-- 9. Terms & Conditions Page -->
     <url>
-        <loc>https://hanuman-chalisa.blogterms-conditions.html</loc>
+        <loc>https://hanuman-chalisa.blog/terms-conditions.html</loc>
         <priority>0.30</priority>
     </url>
     <!-- 10. Disclaimer Page (Added) -->
     <url>
-        <loc>https://hanuman-chalisa.blogdisclaimer.html</loc>
+        <loc>https://hanuman-chalisa.blog/disclaimer.html</loc>
         <priority>0.30</priority>
     </url>
 </urlset>
