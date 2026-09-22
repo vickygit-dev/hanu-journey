@@ -1,0 +1,12 @@
+# ==========================================
+# ROBOTS.TXT FOR HANUMAN-CHALISA.BLOG
+# ==========================================
+
+User-agent: *
+Allow: /
+
+# Prevent search engines from indexing utility file versions
+Disallow: /make_site.py
+
+# Direct path to your verified XML sitemap schema
+Sitemap: https://hanuman-chalisa.blog
