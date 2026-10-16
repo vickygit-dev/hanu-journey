@@ -9,4 +9,4 @@ Allow: /
 Disallow: /make_site.py
 
 # Direct path to your verified XML sitemap schema
-Sitemap: https://hanuman-chalisa.blog
+Sitemap: https://hanuman-chalisa.blog/sitemap.xml
