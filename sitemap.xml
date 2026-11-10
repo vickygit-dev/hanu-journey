@@ -1,72 +1,77 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Homepage -->
   <url>
     <loc>https://hanuman-chalisa.blog/</loc>
     <priority>1.0</priority>
   </url>
 
+  <!-- Main Pages -->
   <url>
-    <loc>https://hanuman-chalisa.blog/hanuman-chalisa-hinglish.html</loc>
+    <loc>https://hanuman-chalisa.blog/hanuman-chalisa-hinglish</loc>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://hanuman-chalisa.blog/bajrang-baan.html</loc>
+    <loc>https://hanuman-chalisa.blog/bajrang-baan</loc>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://hanuman-chalisa.blog/mangalwar-vrat.html</loc>
+    <loc>https://hanuman-chalisa.blog/mangalwar-vrat</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hanuman-chalisa.blog/hanuman-aarti.html</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://hanuman-chalisa.blog/blog.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hanuman-chalisa.blog/blog-hi/ganesha-aarti.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hanuman-chalisa.blog/blog-hi/laxmi-aarti.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hanuman-chalisa.blog/blog-hi/om-jai-jagdish-hare.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hanuman-chalisa.blog/blog-hi/kuber-aarti.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hanuman-chalisa.blog/blog-hi/diwali-puja-muhurat-2027.html</loc>
+    <loc>https://hanuman-chalisa.blog/hanuman-aarti</loc>
     <priority>0.8</priority>
   </url>
 
+  <!-- Blog Listing -->
   <url>
-    <loc>https://hanuman-chalisa.blog/about-us.html</loc>
+    <loc>https://hanuman-chalisa.blog/blog</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Hindi Blog Articles -->
+  <url>
+    <loc>https://hanuman-chalisa.blog/blog-hi/ganesha-aarti</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hanuman-chalisa.blog/blog-hi/laxmi-aarti</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hanuman-chalisa.blog/blog-hi/om-jai-jagdish-hare</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hanuman-chalisa.blog/blog-hi/kuber-aarti</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hanuman-chalisa.blog/blog-hi/diwali-puja-muhurat-2027</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Legal and Information Pages -->
+  <url>
+    <loc>https://hanuman-chalisa.blog/about-us</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://hanuman-chalisa.blog/contact-us.html</loc>
+    <loc>https://hanuman-chalisa.blog/contact-us</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://hanuman-chalisa.blog/privacy-policy.html</loc>
+    <loc>https://hanuman-chalisa.blog/privacy-policy</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://hanuman-chalisa.blog/terms-conditions.html</loc>
+    <loc>https://hanuman-chalisa.blog/terms-conditions</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://hanuman-chalisa.blog/disclaimer.html</loc>
+    <loc>https://hanuman-chalisa.blog/disclaimer</loc>
     <priority>0.3</priority>
   </url>
 
